@@ -7,3 +7,6 @@ I am a regular presenter at community events in the UK and Ireland (and the rest
 
 > ## OSS Contributions
 > If you are looking for my OSS community contributions [I ued the GitHub handle @rfennell](https://github.com/rfennell/rfennell)
+
+## Recent Blog Posts
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
