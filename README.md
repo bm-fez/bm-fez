@@ -9,4 +9,10 @@ I am a regular presenter at community events in the UK and Ireland (and the rest
 > If you are looking for my OSS community contributions [I ued the GitHub handle @rfennell](https://github.com/rfennell/rfennell)
 
 ## Recent Blog Posts
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Yet more Azure DevOps pipeline variable expansion strangeness](https://blog.richardfennell.net/posts/yet-more-azure-devops-pipeline-variable-expansion-strangeness/)
+- [Getting parameters out of ARM/BICEP Deployments](https://blog.richardfennell.net/posts/getting-parameters-out-of-arm-deloyments/)
+- [More on when Azure DevOps variables are available in pipeline runs](https://blog.richardfennell.net/posts/more-on-when-azure-devops-variables-available/)
+- [Checking out Git submodules when Azure DevOps Protected Access to repos is enabled](https://blog.richardfennell.net/posts/checking-out-git-submodules-when-protected-access-enabled/)
+- [So my Azure DevOps TF30063 error was down to DNS again](https://blog.richardfennell.net/posts/so-my-tf30063-error-is-just-dns-again/)
+<!-- BLOG-POST-LIST:END -->
