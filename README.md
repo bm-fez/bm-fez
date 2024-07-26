@@ -6,7 +6,7 @@ As CTO of Black Marble, I am responsible for the delivery of systems and tools t
 I am a regular presenter at community events in the UK and Ireland (and the rest of the world given a chance) where my most common subjects are DevOps, software testing and the development process.
 
 > ## OSS Contributions
-> If you are looking for my OSS community contributions [I use the GitHub handle @rfennell](https://github.com/rfennell/rfennell)
+> If you are looking for my OSS community contributions [I use the GitHub handle @rfennell](https://github.com/rfennell)
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
